@@ -1,7 +1,9 @@
 # Threat Intelligence Report - APT29
 
 **Threat Class:** State-Sponsored Advanced Persistent Threat
+
 **Alias:** Cozy Bear
+
 **Report Date:** January 2026
 
 ## Executive Assessment
